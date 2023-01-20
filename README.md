@@ -23,10 +23,6 @@ If only using data.zip above, you can skip this step.
 1. Install [ImageMagick](https://imagemagick.org/index.php).
 2. Run ```convert -resize 150x150\! input.jpg output.jpg```.
 
-# Webapp Demo
-- [Click Here](https://fs.a0-0.com/cs254a-final-project/demo/)
-- The Webapp Demo currently does not work on iOS or Safari. It works best Google Chrome.
-
 # Final Report & Presentation
 - [project-final-report](https://drive.google.com/drive/u/0/folders/1rn1G4S36BqzP2FIoQuiycusdiU2tpI6n)
 - [project-final-presentation](https://drive.google.com/drive/u/0/folders/1rn1G4S36BqzP2FIoQuiycusdiU2tpI6n)
