@@ -1,0 +1,12 @@
+data/
+data-50x50/
+data-150x150/
+.ipynb_checkpoints/
+data.zip
+.csfair.tmp.jpg
+Parisa\'s\ folder/
+.Trash-0
+saved_models/
+saved_histories/
+web-client/saved_models/
+server/
